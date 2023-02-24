@@ -12,7 +12,7 @@
             
             <nav id="navigation">
                 <ul id="nav">
-                    <li><a href="index.php">Home</a></li>
+                    <li><a href="index.html">Home</a></li>
                     <li><a href="#">Ultra Sonic Sensor</a></li>
                     <li><a href="#">Camera</a></li>
                     <li><a href="#">Battery</a></li>
