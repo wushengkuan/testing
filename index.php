@@ -10,7 +10,7 @@ $content = '<img src="Images/pic1.jpg" class="imgLeft" />
 <img src="Images/pic2.jpg" class="imgRight"/>
 <h3>Yeah</h3>
 <p>
-    社會好可怕!!!!
+    社會超可怕!!!!
 </p>
 
 <img src="Images/pic3.jpg" class="imgLeft" />
